@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben-chao Lit"
+title                    : "Ben-chao Li"
 title_separator          : "-"
 name                     : &name "Ben-chao Li"
 description              : &description "Postgraduate student in iSEE Lab at Sun Yat-Sen University"
@@ -83,7 +83,7 @@ author:
   location         : "Guangzhou, P. R. China"
   employer         : 
   googlescholar    : #"http://scholar.google.com/this-is-a-test"
-  email            : 
+  email            : chanma365@gmail.com
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -105,7 +105,7 @@ author:
   tumblr           :
   twitter          : ""
   vine             :
-  weibo            :
+  WeChat           : Benchge
   xing             :
   youtube          :
   wikipedia        : 
